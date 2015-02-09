@@ -11,6 +11,10 @@
     "angular-messages": "^1.3.0",
     "angular-route": "^1.3.0",
     "angular-sanitize": "^1.3.0",
+<<<<<<< HEAD
+=======
+    "angular-resource" : "^1.3.0",
+>>>>>>> 2e462aa14f844a3ece2c26844b7235f85e0cbfdc
     "angular-touch": "^1.3.0",
     "angular-material": "^0.7.0",
     "hammerjs": "^2.0.4",
