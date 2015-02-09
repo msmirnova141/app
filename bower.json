@@ -11,7 +11,7 @@
     "angular-messages": "^1.3.0",
     "angular-route": "^1.3.0",
     "angular-sanitize": "^1.3.0",
-    "angular-resource" : "^1.2.16",
+    "angular-resource" : "^1.3.0",
     "angular-touch": "^1.3.0",
     "angular-material": "^0.7.0",
     "hammerjs": "^2.0.4",
